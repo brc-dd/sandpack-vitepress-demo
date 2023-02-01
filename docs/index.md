@@ -2,7 +2,9 @@
 
 <br />
 
-::: sandbox {template=vue3-ts readOnly}
+<!-- you can pass props like this: ::: sandbox {template=vue3-ts readOnly} -->
+
+::: sandbox
 
 ```vue App.vue
 <template>
